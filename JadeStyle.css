@@ -1,0 +1,12 @@
+body {
+	background-image: url(yellowBack.jpg);
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 150%;
+}
+
+h1 {
+	text-align: center;
+	color: #0047b3;
+	font-family: Papyrus, fantasy;
+}
+
